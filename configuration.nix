@@ -44,7 +44,7 @@
        isNormalUser = true;
        extraGroups = [ "wheel" ];
        openssh.authorizedKeys.keys = [
-        sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIEMXzEETnle9DcGw8Zow0Lw7GizL/f3t5W3x6+kWTQl1AAAABHNzaDo= Xeni
+        sk-ssh-ed25519 AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIEMXzEETnle9DcGw8Zow0Lw7GizL/f3t5W3x6+kWTQl1AAAABHNzaDo= Xeni
        ];
      };
    };
